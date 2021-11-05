@@ -15,3 +15,4 @@ The project is build using [**brownie**](https://github.com/eth-brownie/brownie)
 _Done!! now you have a isolated python environment that can run the project_
 
 
+Want to know why brownie for smart contract development ? _[**check this stackexchange answer**](https://ethereum.stackexchange.com/a/103176/63616)_
